@@ -2,11 +2,12 @@
 
 **Tomouhi** is an AI-powered platform that helps Moroccan students and graduates prepare for job interviews by analyzing their CVs, simulating real interviews, and generating structured feedback reports.
 
----
+<img width="621" alt="Image" src="https://github.com/user-attachments/assets/01163dcb-09cb-46bf-aacd-de7a7ffa884c" />
 
+--- 
 ## Project Overview
 
-Tomouhi automates the interview preparation process using a multi-agent system powered by LLMs and speech analysis. It:
+Tomouhi automates the interview preparation process using a multi-agent system powered by LLMs and speech analysis :
 - Parses and analyzes CVs using RAG tools and Google Gemini.
 - Simulates dynamic interviews with AI-generated questions.
 - Transcribes and corrects spoken responses.
@@ -90,27 +91,26 @@ Tomouhi automates the interview preparation process using a multi-agent system p
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/tomouhi.git
-cd tomouhi
+git clone https://github.com/hibasofyan/HACK_AI.git
+cd HACK_AI
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Launch the platform
-python app2.py
+python app.py
 ```
 ---
+##  Try It Out
 
+You can test the live demo directly on Hugging Face Spaces:  
+https://huggingface.co/spaces/Hiba03/HackAI
+
+---
 ##  Project Presentation
 
 You can view the full project presentation here:  
 👉 (https://app.pitch.com/app/presentation/bf34672b-f669-4152-8ffa-4df6327e4d17/484f1edd-c734-4f8a-9370-8e17cd93f12b)
-
----
-## Demo
-
-You can download and watch the demo video here:  
-[ Tomouhi Demo Video](./demo.mp4)
 
 ---
 ## 🔔 Get Involved
